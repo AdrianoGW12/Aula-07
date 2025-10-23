@@ -2,3 +2,4 @@
 
 $variavel = "Teste";
 
+$test = 10;
