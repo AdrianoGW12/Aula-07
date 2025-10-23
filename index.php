@@ -1,4 +1,4 @@
 <?php
 
-
+$variavel = "Teste";
 
